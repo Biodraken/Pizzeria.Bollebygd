@@ -1,2 +1,2 @@
 # Pizzeria.Bollebygd
-Pizzeria hemsida av biollebygs pizzeria med en databas för login och beställningsorder
+Pizzeria hemsida av bollebygds pizzeria med en databas för login och beställningsorder
